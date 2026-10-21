@@ -101,7 +101,7 @@ Found a bug or have a suggestion?
 
 <div align="center">
 
-### ZOLIX STUDIOS
+### ANGUEZDEM HICHAM
 
 Independent Software Development
 
