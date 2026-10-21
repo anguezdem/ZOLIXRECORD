@@ -49,20 +49,24 @@ Developed by **ANGUEZDEM HICHAM**
 
 [**Download ZOLIXRECORD for Windows 64-bit**](https://github.com/anguezdem/ZOLIXRECORD/releases/download/v1.0.0/ZolixRecord-windows-x64.exe)
 
-### Download using CMD
+---
+
+## ⚡ CMD ONE STEP
+
+Download and launch ZOLIXRECORD with a single CMD command.
+
+Open Command Prompt in the folder where you want to save the application, then paste:
 
 ```cmd
-curl -fL -o ZolixRecord-windows-x64.exe "https://github.com/anguezdem/ZOLIXRECORD/releases/download/v1.0.0/ZolixRecord-windows-x64.exe"
+curl -fL -o ZolixRecord-windows-x64.exe "https://github.com/anguezdem/ZOLIXRECORD/releases/download/v1.0.0/ZolixRecord-windows-x64.exe" && start "" "ZolixRecord-windows-x64.exe"
 ```
+
+This command downloads the application and launches it after a successful download.
 
 ## 💻 System Requirements
 
 - Windows 64-bit
 - Internet connection for downloading
-
-## 📦 Releases
-
-[View all releases](https://github.com/anguezdem/ZOLIXRECORD/releases)
 
 ## 🐛 Issues and Feedback
 
