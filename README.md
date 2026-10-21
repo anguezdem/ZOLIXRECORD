@@ -10,7 +10,7 @@ A Windows screen recording application by **ZOLIX STUDIOS**.
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows)
 ![Version](https://img.shields.io/badge/Version-1.0.0-red?style=for-the-badge)
 
-[![Download ZOLIXRECORD](https://img.shields.io/badge/DOWNLOAD-ZOLIXRECORD-red?style=for-the-badge&logo=github)](https://github.com/anguezdem/ZOLIXRECORD/releases/latest)
+[![Download ZOLIXRECORD](https://img.shields.io/badge/DOWNLOAD-ZOLIXRECORD-red?style=for-the-badge&logo=github)](https://github.com/anguezdem/ZOLIXRECORD/releases/download/v1.0.0/ZolixRecord-windows-x64.exe)
 
 </div>
 
@@ -18,16 +18,16 @@ A Windows screen recording application by **ZOLIX STUDIOS**.
 
 ## 📖 About
 
-**ZOLIXRECORD** is a Windows screen recording application developed by ZOLIX STUDIOS.
+**ZOLIXRECORD** is a Windows screen recording application developed by **ZOLIX STUDIOS**.
 
 This repository contains screenshots, download instructions, and application releases.
 
 ## ✨ Features
 
-- 🖥️ Designed for Windows
-- 🎥 Screen recording application
-- 📦 Downloadable executable release
-- 🔗 Easy access to the latest version
+- 🖥️ Windows desktop application
+- 🎥 Screen recording
+- 📦 Downloadable Windows executable
+- 🔗 Easy access to releases
 
 ## 📸 Screenshots
 
@@ -57,39 +57,41 @@ This repository contains screenshots, download instructions, and application rel
 
 ## 📥 Download and Installation
 
-### Method 1 — GitHub
+### Method 1 — Direct Download
 
-1. Visit the [latest release](https://github.com/anguezdem/ZOLIXRECORD/releases/latest).
-2. Scroll down to **Assets**.
-3. Download the Windows `.exe` file.
-4. Open the downloaded file to launch the application.
+[**⬇ Download ZOLIXRECORD for Windows (64-bit)**](https://github.com/anguezdem/ZOLIXRECORD/releases/download/v1.0.0/ZolixRecord-windows-x64.exe)
 
-### Method 2 — Windows CMD
+1. Download the `.exe` file.
+2. Open the downloaded file to launch the application.
+
+### Method 2 — Download using Windows CMD
 
 Open Command Prompt and run:
 
 ```cmd
-curl -fL -o ZOLIXRECORD.exe "https://github.com/anguezdem/ZOLIXRECORD/releases/latest/download/ZOLIXRECORD.exe"
+curl -fL -o ZolixRecord-windows-x64.exe "https://github.com/anguezdem/ZOLIXRECORD/releases/download/v1.0.0/ZolixRecord-windows-x64.exe"
 ```
 
-Then run:
+After downloading, run:
 
 ```cmd
-ZOLIXRECORD.exe
+ZolixRecord-windows-x64.exe
 ```
 
-**Note:** The download command requires the release asset to be named exactly `ZOLIXRECORD.exe`.
+To download and launch the application in one step:
+
+```cmd
+curl -fL -o ZolixRecord-windows-x64.exe "https://github.com/anguezdem/ZOLIXRECORD/releases/download/v1.0.0/ZolixRecord-windows-x64.exe" && ZolixRecord-windows-x64.exe
+```
 
 ## 💻 System Requirements
 
 - Windows
-- A compatible Windows computer
+- 64-bit Windows system
 
 ## 📦 Releases
 
-Download the latest version:
-
-[**Download ZOLIXRECORD v1.0.0 →**](https://github.com/anguezdem/ZOLIXRECORD/releases/latest)
+[**View all releases →**](https://github.com/anguezdem/ZOLIXRECORD/releases)
 
 ## 🐛 Issues and Feedback
 
